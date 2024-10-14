@@ -52,6 +52,7 @@
 .titleInput{
   width: 100%;
   padding: 10px;
+  font-family: var(--roboto);
   outline: none;
   box-shadow: 5px 5px 20px black;
   border: none;
@@ -63,7 +64,7 @@
   min-height: 150px;
   outline: none;
   padding: 10px;
-  font-family: var(--permant);
+  font-family: var(--roboto);
   box-shadow: 5px 5px 20px black;
   border: none;
   border-radius: 20px;
