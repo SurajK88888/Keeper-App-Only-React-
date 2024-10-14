@@ -1,3 +1,6 @@
+THIS App IS ONLY CONTAIN REACT (NO MUI DEPENDIENCES only REACT AND REACT DOM DEPENDENCIES)
+
+
 This is simple react app to add notes.
 You will simply add note notes and add it.
 This application also show all your added notes in rows.
